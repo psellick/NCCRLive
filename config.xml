@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	maxImageWidth="1024"
+	maxImageHeight="768"
+	imageQuality="80"
+	thumbWidth="85"
+	thumbHeight="85"
+	thumbQuality="90"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	galleryTitle="NCCR Gallery"
+	backgroundColor="rgba(204,51,51,56)"
+
+>
+  <image imageURL="images/58976_433068384927_2472826_n.jpg"
+	thumbURL="thumbs/58976_433068384927_2472826_n.jpg"
+	linkURL="images/58976_433068384927_2472826_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Richard Price Hard at work - Moreton Show 2011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/58767_433068094927_5449598_n.jpg"
+	thumbURL="thumbs/58767_433068094927_5449598_n.jpg"
+	linkURL="images/58767_433068094927_5449598_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Phil Sellick Head controller :-)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/58767_433068084927_2622834_n.jpg"
+	thumbURL="thumbs/58767_433068084927_2622834_n.jpg"
+	linkURL="images/58767_433068084927_2622834_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Half the Cooler Breakfast]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/58737_433067809927_2691815_n.jpg"
+	thumbURL="thumbs/58737_433067809927_2691815_n.jpg"
+	linkURL="images/58737_433067809927_2691815_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[John & Andy outside the Johnsons Bus 2011 Moreton Show]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/58371_430908189927_2505449_n.jpg"
+	thumbURL="thumbs/58371_430908189927_2505449_n.jpg"
+	linkURL="images/58371_430908189927_2505449_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[The Cooler Breakfast Team]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/47708_433067519927_5716724_n.jpg"
+	thumbURL="thumbs/47708_433067519927_5716724_n.jpg"
+	linkURL="images/47708_433067519927_5716724_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Joe Jury]]></title>
+    <caption><![CDATA[Caption]]></caption>
+  </image>
+  <image imageURL="images/47510_433066694927_6192265_n.jpg"
+	thumbURL="thumbs/47510_433066694927_6192265_n.jpg"
+	linkURL="images/47510_433066694927_6192265_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Tom Roles live in Moreton Show 2010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/46645_433068714927_7732751_n.jpg"
+	thumbURL="thumbs/46645_433068714927_7732751_n.jpg"
+	linkURL="images/46645_433068714927_7732751_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[The 'Engineers']]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/46645_433068699927_4353721_n.jpg"
+	thumbURL="thumbs/46645_433068699927_4353721_n.jpg"
+	linkURL="images/46645_433068699927_4353721_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Robb Eden and family Moreton Show 2010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/radio_desk.JPG"
+	thumbURL="thumbs/radio_desk.JPG"
+	linkURL="images/radio_desk.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[NCCR Sonflex Mark 2 Mixer]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/download.jpg"
+	thumbURL="thumbs/download.jpg"
+	linkURL="images/download.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Two presentors live from NCCR Studio]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20120901_095003 (1).jpg"
+	thumbURL="thumbs/20120901_095003 (1).jpg"
+	linkURL="images/20120901_095003 (1).jpg"
+	linkTarget="_blank">
+    <title><![CDATA[NCCR @ Moreton Show, 2012 RSL]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20120831_220710.jpg"
+	thumbURL="thumbs/20120831_220710.jpg"
+	linkURL="images/20120831_220710.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Jim in full uniform]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/313340_10150302433759928_730848350_n.jpg"
+	thumbURL="thumbs/313340_10150302433759928_730848350_n.jpg"
+	linkURL="images/313340_10150302433759928_730848350_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[NCCR's Chief Technical Officer Chris Hathaway]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/311581_10150302245069928_4483302_n.jpg"
+	thumbURL="thumbs/311581_10150302245069928_4483302_n.jpg"
+	linkURL="images/311581_10150302245069928_4483302_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[The Vibe Live at Moreton Show 2011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/301431_10150302437244928_1886147070_n.jpg"
+	thumbURL="thumbs/301431_10150302437244928_1886147070_n.jpg"
+	linkURL="images/301431_10150302437244928_1886147070_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[The NCCR Bus Moreton Show 2011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/299361_10150302245709928_1164558_n.jpg"
+	thumbURL="thumbs/299361_10150302245709928_1164558_n.jpg"
+	linkURL="images/299361_10150302245709928_1164558_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[The NCCR Bus Moreton Show 2011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/296518_10150302434049928_1471064404_n.jpg"
+	thumbURL="thumbs/296518_10150302434049928_1471064404_n.jpg"
+	linkURL="images/296518_10150302434049928_1471064404_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[296518_10150302434049928_1471064404_n]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/263468_10150242548214928_2135319_n.jpg"
+	thumbURL="thumbs/263468_10150242548214928_2135319_n.jpg"
+	linkURL="images/263468_10150242548214928_2135319_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Phil Sellick - The golden pants at the cooler breakfast]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/224735_10150166600169928_535352_n.jpg"
+	thumbURL="thumbs/224735_10150166600169928_535352_n.jpg"
+	linkURL="images/224735_10150166600169928_535352_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[NCCR breakfast nugs]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/60553_433067244927_1925715_n.jpg"
+	thumbURL="thumbs/60553_433067244927_1925715_n.jpg"
+	linkURL="images/60553_433067244927_1925715_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Joe Jury live ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/60017_433069334927_4106082_n.jpg"
+	thumbURL="thumbs/60017_433069334927_4106082_n.jpg"
+	linkURL="images/60017_433069334927_4106082_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[NCCR RDS - It Does work !]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/60017_433069324927_5629503_n.jpg"
+	thumbURL="thumbs/60017_433069324927_5629503_n.jpg"
+	linkURL="images/60017_433069324927_5629503_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Val Robinson]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/58976_433068419927_5697467_n.jpg"
+	thumbURL="thumbs/58976_433068419927_5697467_n.jpg"
+	linkURL="images/58976_433068419927_5697467_n.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[The NCCR Cocktail Bar - Moreton Show 2010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cooler.jpg"
+	thumbURL="thumbs/cooler.jpg"
+	linkURL="images/cooler.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[cooler breakfast with THE stunt horse rider]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bus.jpg"
+	thumbURL="thumbs/bus.jpg"
+	linkURL="images/bus.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[The NCCR Bus]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ariel.JPG"
+	thumbURL="thumbs/ariel.JPG"
+	linkURL="images/ariel.JPG"
+	linkTarget="_blank">
+    <title><![CDATA[Transmitter @ Budgens in Moreton]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/arial.jpg"
+	thumbURL="thumbs/arial.jpg"
+	linkURL="images/arial.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[Transmitter @ Budgens in Moreton]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/john bowlt.jpg"
+	thumbURL="thumbs/john bowlt.jpg"
+	linkURL="images/john bowlt.jpg"
+	linkTarget="_blank">
+    <title><![CDATA[John Bowlt live at Moreton 2011]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
